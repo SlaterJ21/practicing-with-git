@@ -1,0 +1,3 @@
+Git remote add origin master
+
+Git pull origin master
